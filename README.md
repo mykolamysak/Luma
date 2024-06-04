@@ -21,9 +21,9 @@ We are pleased to announce that we have posted our game on the website. For the 
 [Click](https://lumagame.itch.io/luma) to play!
 
 ### Acknowlegment 🎓
-[OneDrive](https://iiiii-my.sharepoint.com/:f:/g/personal/yuliia_hanzii_cs_khpi_edu_ua/EpHi64yt7qFEsTrl6RGKGxoBqtfVq7256wu3hXheZ8JDhw?e=Sidmsk) team meetings & designs
-[IconFinder]() for the icons
-[pixabay](https://pixabay.com/sound-effects/search/laser/?pagi=2) for the sounds
+- [OneDrive](https://iiiii-my.sharepoint.com/:f:/g/personal/yuliia_hanzii_cs_khpi_edu_ua/EpHi64yt7qFEsTrl6RGKGxoBqtfVq7256wu3hXheZ8JDhw?e=Sidmsk) team meetings & designs
+- [IconFinder]() for the icons
+- [pixabay](https://pixabay.com/sound-effects/search/laser/?pagi=2) for the sounds
 
 ### Creators :octocat: 
 - Lola Yunusova - Graphic Designer
