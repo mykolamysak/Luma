@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: eff99fa50ecaf1849a5b33654a869400
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 400
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6767.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23366d7c8e3786a4fa6a6939fdbd7d53
+      internalID: 772209678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_1
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 6767.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 240cce0604b871b448917d0511bba8da
+      internalID: -664655665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_2
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 6767.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4f3c79e5baefa49b37524e483ccdaa
+      internalID: -1474371627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5076.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca52cf399a33a4e45b449b6ea13da8c4
+      internalID: 344240334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_4
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 5076.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 087330d3d1156dd45ad100e2ce31ecf7
+      internalID: 158447808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_5
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 5076.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 691e75402a11f1849b72d5d04e8e5592
+      internalID: 1930690133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3385.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dabba5416aed4de40988d0b03e33d0b6
+      internalID: -1675055628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_7
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3385.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e845edc2fd02f1408a3eb7dd018e4b8
+      internalID: 1452917061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_8
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3385.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c88b10314a30d47a450e62ee4db09a
+      internalID: 1493803011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1694.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 192d3b7c3b641f945b38c1d4496fbcb3
+      internalID: -693861933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_10
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 1694.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232c22b9c6f201e4d8e2d71e59fd760a
+      internalID: -308777006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_11
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 1694.2
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 468067d4bb481ff45bcfde4bf759f517
+      internalID: 1809939617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3.1999512
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d44910124278a8244b1d2cf8381cf930
+      internalID: -1401913030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_13
+      rect:
+        serializedVersion: 2
+        x: 1548
+        y: 3.1999512
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1a36e63a7cbf147a2adc4f6828ccb1
+      internalID: 1520247776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spaceship_pink_flat_all_right_14
+      rect:
+        serializedVersion: 2
+        x: 3096
+        y: 3.1999512
+        width: 1548.6666
+        height: 1691.8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0141fca992f4d514ebb1b27208f7df7b
+      internalID: 235328991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      spaceship_pink_flat_all_right_0: 772209678
+      spaceship_pink_flat_all_right_1: -664655665
+      spaceship_pink_flat_all_right_10: -308777006
+      spaceship_pink_flat_all_right_11: 1809939617
+      spaceship_pink_flat_all_right_12: -1401913030
+      spaceship_pink_flat_all_right_13: 1520247776
+      spaceship_pink_flat_all_right_14: 235328991
+      spaceship_pink_flat_all_right_2: -1474371627
+      spaceship_pink_flat_all_right_3: 344240334
+      spaceship_pink_flat_all_right_4: 158447808
+      spaceship_pink_flat_all_right_5: 1930690133
+      spaceship_pink_flat_all_right_6: -1675055628
+      spaceship_pink_flat_all_right_7: 1452917061
+      spaceship_pink_flat_all_right_8: 1493803011
+      spaceship_pink_flat_all_right_9: -693861933
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
