@@ -5,7 +5,7 @@ The player controls a spaceship that has to destroy enemies and obstacles that a
 
 ### Gameplay 🎮
 
-![Gameplay](https://giphy.com/gifs/IEr84yc7xbO453ZDYp)
+![](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2FzY3c1bGw2Njk2OHAxYjhjbnF6ZXMwdmhkMjU4bGU1Y2RqaGdrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IEr84yc7xbO453ZDYp/giphy.gif))
 
 ### Used tools and technologies 🔨
 
